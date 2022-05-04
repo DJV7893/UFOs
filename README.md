@@ -53,4 +53,4 @@ The user can type a desired UFO shape and the change is detected and the table i
 ---
 Data Source: data.js
 
-Software: Visual Studio Code 1.65.2, Javascript 1.7, HTML
+Software: Visual Studio Code 1.65.2, Javascript 1.7, HTML/CSS
