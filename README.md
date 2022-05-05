@@ -12,32 +12,38 @@
 ### Search Criteria Process:
 
 Index Page:
-  Our initial set-up webpage that can be re-initialized by clicking on UFO Sightings, our navigation bar.
+
+Our initial set-up webpage that can be re-initialized by clicking on UFO Sightings, our navigation bar.
 
 ![Nav_Bar_Img](https://user-images.githubusercontent.com/99817571/166715689-89ff1ec9-fd57-429f-aa13-a8735af4364f.png)
 
 Filter by Date:
-  The user can type a desired date and the change is detected and the table is updated accordingly.
+
+The user can type a desired date and the change is detected and the table is updated accordingly.
 
 ![Datetime_Input_Img](https://user-images.githubusercontent.com/99817571/166716511-1f7510ba-b90e-416e-a593-9431f68a5e92.png)
 
 Filter by City:
-  The user can type a desired city and the change is detected and the table is updated accordingly.
+
+The user can type a desired city and the change is detected and the table is updated accordingly.
 
 ![City_Input_Img](https://user-images.githubusercontent.com/99817571/166716681-d9f9fd39-b9e0-4a17-ac72-f6f892cdbb7a.png)
 
 Filter by State:
-  The user can type a desired state and the change is detected and the table is updated accordingly.
+
+The user can type a desired state and the change is detected and the table is updated accordingly.
 
 ![State_Input_Img](https://user-images.githubusercontent.com/99817571/166716854-c247399b-9dae-4193-b148-412a0d84ee41.png)
 
 Filter by Country:
-  The user can type a desired country and the change is detected and the table is updated accordingly.
+
+The user can type a desired country and the change is detected and the table is updated accordingly.
 
 ![Country_Input_Img](https://user-images.githubusercontent.com/99817571/166716965-e9505538-c53d-4632-9bfd-1190144af3df.png)
 
 Filter by Shape:
-  The user can type a desired UFO shape and the change is detected and the table is updated accordingly.
+
+The user can type a desired UFO shape and the change is detected and the table is updated accordingly.
 
 ![Shape_Input_Img](https://user-images.githubusercontent.com/99817571/166717076-403da55c-c3d6-4ed6-987e-10f42dcf6105.png)
 
